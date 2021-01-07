@@ -3,6 +3,7 @@ The purpose of the project is to calculate one-year probability of corporate def
 Currently, the project includes:
 <li> PD calculation based on the KMV-Merton model.
 <li> PD calculation based on Scorecard and logistic regression model
+
 Here is the link to my repository, in which one can find probability of default estimation in Python, using Machine Learning models: https://github.com/PawelChruszczewski/Corporate-Defaults---ML-Models
 
 In the project, I used bankruptcy data from the UCLA LoPucki database and fundamental data about companies from the Compustat database.
